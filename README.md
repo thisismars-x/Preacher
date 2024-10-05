@@ -66,12 +66,12 @@ The only operations it supports are: **help instructions**, and **setting up glo
 ![first](./resources/real.png)
 ![second](./resources/terminal-like.png)
 
-To investigate everything you may do through this interface, type in **'help'**.
-The details of this project can be read through **'info'**.
-To get a summary of the global variables of the project, simply type **'return'**.
-You may set rotation speed, camera index, and more through this interface directly.
-Type, **SHOWCVWINDOW 1**, to show opencv window along with the main program.
-This can be directly done, through the terminal by passing **--cv-open** while running main.py.
+- To investigate everything you may do through this interface, type in **'help'**.
+- The details of this project can be read through **'info'**.
+- To get a summary of the global variables of the project, simply type **'return'**.
+- You may set rotation speed, camera index, and more through this interface directly.
+- Type, **SHOWCVWINDOW 1**, to show opencv window along with the main program.
+- This can be directly done, through the terminal by passing **--cv-open** while running main.py.
 
 Run:
 
