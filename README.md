@@ -74,3 +74,6 @@ Run:
 
 ```bash
 python3 main.py
+
+![first](./resources/real.png)
+![second](./resources/terminal-like.png)
