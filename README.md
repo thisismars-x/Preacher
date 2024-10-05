@@ -1,9 +1,13 @@
 # What is Preacher?
 
 **Preacher** is a small program written in python, to natively interact with 3-D wireframe models.
+
 The general idea is to **interact with your models with your hands**, instead of a silicone keyboard.
+
 This makes interacting with 3D models much more instinctive, and can have production values in industrial manufacturing.
+
 At this stage, Preacher is suitable for small wireframe models, with medium number of nodes, and edges, but I plan to soon add GPU support.
+
 With one more camera for better depth estimation for hand positions, this program can be extended for scientific causes, instead of 
 purely educational and visualization purposes.
 
@@ -11,6 +15,7 @@ purely educational and visualization purposes.
 
 Note, that the image on screen is moved completely by hands, and not by keyboard, or mouse.
 
+![watch this if you are new](https://github.com/user-attachments/assets/352a3aee-6438-4d60-845e-b3def6283ece)
 ![demonstration video](https://github.com/user-attachments/assets/80e0edbf-7d27-41aa-b6ac-6c3a0116d9aa)
 
 
