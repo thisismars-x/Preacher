@@ -63,6 +63,9 @@ Preacher supports a very minimal interface to interact with.
 The only operations it supports are: **help instructions**, and **setting up global variables**.
 
 
+![first](./resources/real.png)
+![second](./resources/terminal-like.png)
+
 To investigate everything you may do through this interface, type in **'help'**.
 The details of this project can be read through **'info'**.
 To get a summary of the global variables of the project, simply type **'return'**.
@@ -74,6 +77,3 @@ Run:
 
 ```bash
 python3 main.py
-
-![first](./resources/real.png)
-![second](./resources/terminal-like.png)
