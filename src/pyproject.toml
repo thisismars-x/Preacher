@@ -1,0 +1,22 @@
+
+[tool.poetry]
+name = "jarv1"
+version = "0.1.0"
+description = "A pygame application that renders wireframe models for native gesture interaction. From GUI(Graphical User Interface) to nGUI(Natural Gesture User Interface)."
+authors = ["Avi KC <avikc.copy@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/thisismars-x/jarv1"
+keywords = ["pygame", "ai", "wireframe", "3D", "mediapipe"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pygame = "^2.6.0"
+mediapipe = "^0.10.1"
+opencv-python = "^4.5.5"
+numpy = "^1.21.2"
+pygame-widgets = "1.1.5"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
