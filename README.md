@@ -23,27 +23,28 @@ Note, that the image on screen is moved completely by hands, and not by keyboard
    curl -sSL https://install.python-poetry.org | python3 -
 
 2. **Clone repository**
-    To clone this repository, type:
+   To clone this repository, type:
 
     ```bash
     git clone git clone https://github.com/thisismars-x/Preacher.git
     cd Preacher
 
 3. **Install dependencies**
-    Type:
+   Type:
 
     ```bash
     poetry install
     poetry shell
 
 4. **Run an example**
-    Run:
+   Run:
 
     ```bash
     python3 main.py --no-shell
 
 5. **Run your model**
-    Put your model under **src**.
+   Put your model under **src**.
+   
     Go to **declarations.py** and change **EXAMPLE** to your model name(ending with .obj)
 
 ## CONTROLS
