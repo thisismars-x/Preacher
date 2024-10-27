@@ -46,7 +46,7 @@ clock = pgm.time.Clock()
 
 '''
 ------------------
-adding more support                                     
+adding more support:  minimal CLI style interface                                   
 chose your .obj wireframe directly from application
 set ROTATESPEED, CAMERAINDEX, etc. global variables
 a help manual
